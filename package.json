@@ -1,0 +1,14 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms examples (with tests)",
+  "type": "module",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Oleg Smirnov (aka NetDead)",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1"
+  }
+}
